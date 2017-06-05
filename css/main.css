@@ -1,1 +1,30 @@
+body {
+    position: relative;
+}
+
+#home {padding-top:5%;height:100vh;color: #fff; background-color: #caebf2;}
+#about {padding-top:5%;height:100vh;color: #fff; background-color: #F5F5F5;}
+#work {padding-top:5%;height:100vh;color: #000;}
+#contact {padding-top:5%;height:100vh;background-color: #F5F5F5;}
+
+.jumbotron{
+  text-align: center;
+  margin: 25vh;
+  background-color: #a9a9a9;
+  color: #efefef;
+}
+
+.navbar {
+    background-color: #caebf2;
+    border:hidden;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  background-color: #caebf2;
+  border-bottom: 3px solid #FF3B3F;
+  padding-bottom: 1%;
+
+}
 
