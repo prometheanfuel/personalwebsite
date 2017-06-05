@@ -16,7 +16,7 @@ body {
 
 .navbar {
     background-color: #caebf2;
-    border:hidden;
+    border: hidden;
 }
 
 .navbar-inverse .navbar-nav > .active > a,
@@ -26,5 +26,14 @@ body {
   border-bottom: 3px solid #FF3B3F;
   padding-bottom: 1%;
 
+}
+
+#hamburger{
+  background-color: #00c4c0;
+  border-color: white;
+}
+
+.navbar-collapse{
+  border:hidden;
 }
 
