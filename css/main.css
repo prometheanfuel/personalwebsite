@@ -33,6 +33,10 @@ body {
   border-color: white;
 }
 
+.navbar-inverse .navbar-toggle .icon-bar{
+  background-color: #efefef;
+}
+
 .navbar-collapse{
   border:hidden;
 }
